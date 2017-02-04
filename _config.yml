@@ -28,3 +28,11 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+authors:
+  josh:
+    display_name: Josh Melvin
+    email: joshua.melvin@outlook.com
+    web: http://www.apronmafia.com/
+    twitter: masterots
+    github: masterots
